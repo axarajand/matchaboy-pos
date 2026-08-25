@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cup es matcha (siluet putih) untuk foreground ikon adaptif & splash. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tutup dome -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,35 L78,35 Q81,35 81,38 L81,45 Q81,48 78,48 L30,48 Q27,48 27,45 L27,38 Q27,35 30,35 Z" />
+    <!-- Sedotan -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,43 L68,43 L81,22 L76,20 Z" />
+    <!-- Badan gelas -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,49 L78,49 L72,83 Q71.5,86 68,86 L40,86 Q36.5,86 36,83 Z" />
+</vector>

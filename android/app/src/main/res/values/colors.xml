@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna tema hijau matcha (seed #6C8C3C) untuk ikon & splash. -->
+    <color name="matcha_green">#6C8C3C</color>
+</resources>

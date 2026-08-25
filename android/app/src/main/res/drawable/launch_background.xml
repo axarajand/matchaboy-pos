@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash (Android < 12): latar hijau matcha + logo cup di tengah. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/matcha_green" />
+    <item
+        android:drawable="@drawable/ic_matcha_foreground"
+        android:gravity="center" />
+</layer-list>
